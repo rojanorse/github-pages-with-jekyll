@@ -1,3 +1,7 @@
+---
+title: "About me"
+date: 2020-10-09
+---
 ## About me
 
 **From 2003 to 2008** I studied and successfully graduated from _art school with a degree in **Fine Arts**_. I participated in the city and regional competitions of the city of Bolshoj-Kamen, Vladivostok of the Primorsky region of Russia.  
